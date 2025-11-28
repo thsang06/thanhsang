@@ -117,7 +117,7 @@ body
     display: flex;
     justify-content: space-between;
     width: 100%;
-    padding: 0 20px;    /*di chuyển 3 ô lên xuống*/
+    padding:20px;    /*di chuyển 3 ô lên xuống*/
     position: absolute;
     bottom: 0px;    /* đẩy sát xuống dưới (nhô ra giống mẫu) */
     left: 0;
